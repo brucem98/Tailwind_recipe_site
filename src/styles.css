@@ -1,0 +1,7 @@
+/* everytime you edit this file we have to re-process to the output css file in public folder */
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";

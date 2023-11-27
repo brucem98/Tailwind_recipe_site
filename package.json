@@ -1,11 +1,10 @@
 {
-  "dependencies": {
-    "tailwindcss": "^3.3.5"
-  },
   "name": "tailwind_recipe_site",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
   "scripts": {
     "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },

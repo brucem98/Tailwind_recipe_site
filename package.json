@@ -6,7 +6,7 @@
     "tailwindcss": "^3.3.5"
   },
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/input.css -o public/output.css"
   },
   "keywords": [],
   "author": "",
